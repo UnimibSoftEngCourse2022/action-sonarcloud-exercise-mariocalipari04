@@ -12,6 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.organization>unimibsoftengcourse2022</sonar.organization>
   </properties>
 
   <dependencies>
